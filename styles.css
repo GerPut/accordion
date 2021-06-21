@@ -1,0 +1,14 @@
+.content {
+    display: none;
+    padding: 20px;
+}
+
+.main {
+    font-size: 20px;
+    background-color: bisque;
+    cursor: pointer;
+}
+
+.active {
+    display: block;
+}
